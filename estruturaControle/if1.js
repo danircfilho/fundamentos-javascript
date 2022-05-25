@@ -9,7 +9,7 @@ provaEscolar(8.9)
 
 // o IF somente retorna valores verdadeiros...
 function seVerdadeImprime(valorQualquer) {
-  if(valorQualquer) {
+  if(valorQualquer) { 
     console.log('Se imprimiu: " ' + valorQualquer + ' " é proque é verdade!!!') // forma de concatenar com '+'
   }
 }
